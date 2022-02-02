@@ -20,7 +20,8 @@ body {
   border: 1px solid #5f9341;
 }
 
-#input-btn {
+#input-btn,
+#saveTab-btn {
   padding: 10px 20px;
   margin-top: 2px;
   font-size: 20px;
