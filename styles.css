@@ -26,8 +26,18 @@ body {
   font-size: 20px;
   font-weight: bold;
   background-color: #5f9341;
+  border: 1px solid #5f9341;
   border: none;
   color: #fff;
+}
+
+#delete-btn {
+  padding: 10px 20px;
+  margin-top: 2px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1 px solid #5f9341;
+  color: #5f9341;
 }
 
 ul {
